@@ -1,18 +1,6 @@
-# Multipages Ecommerce Website FrontEnd Responsive Design
+# Social Life Blog Website
 
-[View Images](https://imgur.com/gallery/IMixz1q)
-
-[Live Website](https://ecommerce-website-mu.vercel.app/)
-
-#### Languages / Frameworks / Technologies:
-
-- HTML5
-- CSS3
-- SASS
-- JavaScript
-- Swiper JS
-- Fontawesome
-- Google Map
+![social-life-blog](https://github.com/ikramdeveloper/Social-Life-Blog-Website/social-life-blog-homePage.png)
 
 ##### Warning:
 
